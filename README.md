@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+Current research: I am a postdoctoral fellow in the Division of the National Toxicology (DNTP) at the National Institute of Environmental Health Sciences (NIEHS), Durham, North Carolina. My research focuses applying my GIS skills to understand source, exposure, and health outcomes that result from exposure to chemicals mixtures. I am particularly interested in applications of new approach methodologies (NAMs), such as high-throughput screening assays from Tox21 and ToxCast, to provide context to environmental exposures and identify hotspots where chemical co-exposures target the same molecular pathway.
 
-You can use the [editor on GitHub](https://github.com/kristineccles/kristineccles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Past research:  I have technical skills in GIS, remote sensing, and spatial statistics. I completed my PhD in Biology with a specialization in Environmental and Chemical Toxicology at the University of Ottawa. My  PhD thesis used a landscape ecotoxicology framework combined with geostatistical methods to integrate complex biomonitoring datasets and assess overarching spatial patterns of metal exposure, assess complex exposures in wildlife, and assess heterogeneous exposure-response relationships across landscapes. My first postdoctoral fellowship was an extension of this work, where I used natural archives such as tree rings and sediment cores to establish historical baselines for pre-industrial contaminate exposures.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research Interests: Some of my interests and future directions of my research include complex systems, hierarchical structure, analyzing multidimensional data, and network analysis in the context of ecosystem health, biomarkers, and biomonitoring.
 
-### Markdown
+About me as a person: I love exploring new cities (check out my interactive web map of where I’ve been!), continuous learning, and the outdoors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kristineccles/kristineccles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
